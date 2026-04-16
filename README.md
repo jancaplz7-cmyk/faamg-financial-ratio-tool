@@ -135,10 +135,9 @@ This project addresses the challenge faced by Year 2 accounting, economics, and 
 
 ## Product Link
 
-**Streamlit Application:** Deployed on Streamlit Community Cloud
-- Main file: `app.py`
-- Features interactive company comparison, ratio selection, and auto-generated insights
+Streamlit App: https://faamg-financial-ratio-tool.streamlit.app/
 
+GitHub Repository: https://github.com/jancaplz7-cmyk/faamg-financial-ratio-tool
 ---
 
 ## Limitations & Next Steps
